@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ackuikui/node-xlsx#readme",
   "dependencies": {
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.16.9",
+    "xlsx-style": "^0.8.13"
   }
 }
